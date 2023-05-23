@@ -3,7 +3,7 @@
 ## 目錄
 ### 新手指南
 [註冊/登入](https://github.com/milkteamc/wiki#%E7%99%BB%E5%85%A5%E8%A8%BB%E5%86%8A)  
-實用基礎指令
+[實用基礎指令](https://github.com/milkteamc/wiki/edit/main/README.md#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
 ### 實用功能
 一般常用指令  
 傳送系統  
@@ -33,3 +33,11 @@ pvp保護
   - 使用方法 `/login [密碼]`  
 - 更改密碼：  
   - 使用方法 `/changepassword [舊密碼] [新密碼]`  
+## 實用基礎指令
+- `/spawn` 前往重生點
+- `/tpa [玩家]` 向其他玩家發送傳送到該玩家所在位置的請求
+- `/tpahere` 向其他玩家發送傳送到自己所在位置的請求
+- `/rtp` 隨機傳送
+- `/sethome (名稱)` 設定一個家點
+- `/home (名稱)` 前往家點
+- `/homes` 開啟家點列表
