@@ -4,7 +4,7 @@
 - 如果有任何問題請前往我們的 [Discord 群組](https://discord.gg/pyNS5xAvMs) 提問。
 - 歡迎使用 [Pull request](https://github.com/milkteamc/wiki/pulls) 對本清單做出貢獻！
 ## 附魔列表
-## 磨損
+### 磨損
 類型：`一般`  
 用途：造成 %等級% 的傷害  
 最高等級：2  
