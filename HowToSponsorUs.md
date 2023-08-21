@@ -17,7 +17,7 @@
 最後在網頁最下方勾選欄位後，點`確認送出`的按鈕  
 ![圖片](https://github.com/milkteamc/wiki/assets/95519633/ce036c65-37a9-4bf9-a55c-28c8bbd8d81f)  
   
-接下來會跳轉到一個網頁，上面有串超商繳費代碼，使用此條碼到超商繳費即可  
+接下來會跳轉到一個網頁，上面有串超商繳費代碼，使用此代碼到超商機台繳費即可  
 ## 超商繳費方法
 請依照您的繳費通路選擇使用教學(這介面是舊版的，但是使用上不會差太多)  
 - [ibon](https://www.newebpay.com/info/site_description/seven_ibon_embedded)
