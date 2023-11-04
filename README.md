@@ -7,7 +7,7 @@
 ### 實用功能 
 [拍賣商店](https://github.com/milkteamc/wiki#%E6%8B%8D%E8%B3%A3%E5%95%86%E5%BA%97)  
 [箱子商店](./chestshop.md)  
-寵物系統(僅對贊助者開放)   
+[寵物系統(僅對贊助者開放)](./pets.md)   
 [附魔系統](./enchantlist.md)  
 [飛行系統(僅對贊助者開放)](./tempfly.md)   
 [公會系統](./guild.md)  
@@ -21,8 +21,7 @@
 [簽到系統](./daily.md)   
 [聊天欄[ ] 功能](./[].md)   
 [基岩版專用指令](./bedrock.md)   
-### 特有特性 
-[季節系統](./season.md)
+[季節系統](./season.md)  
  
 ***
 ## 登入/註冊
