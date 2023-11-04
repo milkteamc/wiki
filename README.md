@@ -13,7 +13,7 @@
 [公會系統](./guild.md)  
 [領地系統](./land.md)  
 [PVP保護](./pvp.md)  
-連鎖伐木  
+[連鎖伐木](./choptree.md)  
 捕捉球  
 [背包系統](./bag.md)  
 [銀行系統](./bank.md)  
