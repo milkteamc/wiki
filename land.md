@@ -30,4 +30,4 @@
 
 領地主介面:
 
-![image](https://github.com/RyanisyydsTT/wiki/assets/129717677/d652a3ca-87dc-4f3d-9b86-f5ed5167b6ab)
+![image](land.png)
