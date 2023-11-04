@@ -19,7 +19,7 @@
 [銀行系統](./bank.md)  
 [鎖箱保護](./chestlock.md)  
 [簽到系統](./daily.md)   
-[[ ] 功能](./[].md)   
+[聊天欄[ ] 功能](./[].md)   
 [基岩版專用指令](./bedrock.md)   
 ### 特有特性 
 [季節系統](./season.md)
@@ -48,7 +48,7 @@
 - `/back` 返回最後一次傳送點
 - `/pay [玩家名稱] [金額]`  **注意**:輸入後須確認(點擊按鈕) 才能順利轉帳
 - `/baltop` 顯示金錢排行
-## DC連動
+## Discord連動
 - `/discord` 來獲取DC伺服器加入連結
 - `/discord link` 綁定Discord **(需加入[Discord伺服器](https://discord.gg/8Vt5YEatRq)並傳送驗證碼至指定機器人)**
 - `/discord unlink` 解綁Discord帳號
