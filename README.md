@@ -9,7 +9,7 @@
 [箱子商店](./chestshop.md)  
 寵物系統(僅對贊助者開放)   
 [附魔系統](./enchantlist.md)  
-合約系統   
+飛行系統(僅對贊助者開放)   
 [公會系統](./guild.md)  
 [領地系統](./land.md)  
 [PVP保護](./pvp.md)  
