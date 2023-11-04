@@ -38,23 +38,23 @@
 - `/tpa [玩家]` 向其他玩家發送傳送到該玩家所在位置的請求
 - `/tpahere` 向其他玩家發送傳送到自己所在位置的請求
 - `/rtp` 隨機傳送
-- `/sethome (名稱)` 設定一個家點
-- `/home (名稱)` 前往家點
+- `/sethome [名稱]` 設定一個家點
+- `/home [名稱]` 前往家點
 - `/homes` 開啟家點列表
 - `/cheque [金額]` 製作支票
 - `/slime` 史萊姆區塊蒐尋器
 - `/ping` 延遲檢視指令
 - `/dback` 返回死亡點
 - `/back` 返回最後一次傳送點
-- `/pay` 轉帳指令 (/pay [玩家名稱] [金額])   **注意:輸入後須確認(點擊按鈕) 才能順利轉帳**
+- `/pay [玩家名稱] [金額]`  **注意**:輸入後須確認(點擊按鈕) 才能順利轉帳
 - `/baltop` 顯示金錢排行
 ## DC連動
 - `/discord` 來獲取DC伺服器加入連結
-- `/discord link` 綁定Discord **(需加入Discord伺服器並傳送驗證碼至指定機器人)**
+- `/discord link` 綁定Discord **(需加入[Discord伺服器](https://discord.gg/8Vt5YEatRq)並傳送驗證碼至指定機器人)**
 - `/discord unlink` 解綁Discord帳號
 ## 點券系統
 - `/points` 點券系統
-- `/points pay`將點券轉移至其他玩家 (/points pay [玩家名稱] [點券數量])
+- `/points pay [玩家名稱] [點券數量]`將點券轉移至其他玩家 
 - `/points me` 查看點券數量 
 ***
 ## 拍賣商店
