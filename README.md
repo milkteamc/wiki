@@ -20,7 +20,7 @@
 [鎖箱保護](./chestlock.md)  
 [簽到系統](./daily.md)   
 [[ ] 功能](./[].md)   
-[基岩板專用指令](./bedrock.md)   
+[基岩版專用指令](./bedrock.md)   
 ### 特有特性 
 [季節系統](./season.md)
  
