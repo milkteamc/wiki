@@ -20,7 +20,7 @@
 [鎖箱保護](./chestlock.md)  
 [簽到系統](./daily.md)    
 ### 特有特性 
-[季節系統](./season.mc) 
+[季節系統](./season.md)
  
 ***
 ## 登入/註冊
