@@ -1,6 +1,6 @@
 **公會系統 (常用功能)**
 
-- `/guild create` - 建立工會指令。使用方法: `/guild create 公會名稱`。
+- `/guild create` - 建立工會指令。使用方法: `/guild create [公會名稱]`。
 
 - `/guild bank deposit` - 公會存款指令。使用方法: `/guild bank deposit 金額`。
 
