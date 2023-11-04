@@ -6,7 +6,7 @@
 [實用基礎指令](https://github.com/milkteamc/wiki#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
 ### 實用功能 
 [拍賣商店](https://github.com/milkteamc/wiki#%E6%8B%8D%E8%B3%A3%E5%95%86%E5%BA%97)  
-箱子商店  
+[箱子商店](./chestshop.md)  
 寵物系統(尚未開放)  
 工作系統(尚未開放)  
 [附魔系統](./enchantlist.md)  
