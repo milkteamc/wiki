@@ -7,8 +7,7 @@
 ### 實用功能 
 [拍賣商店](https://github.com/milkteamc/wiki#%E6%8B%8D%E8%B3%A3%E5%95%86%E5%BA%97)  
 [箱子商店](./chestshop.md)  
-寵物系統(尚未開放)  
-工作系統(尚未開放)  
+寵物系統(僅對贊助者開放)   
 [附魔系統](./enchantlist.md)  
 合約系統   
 [公會系統](./guild.md)  
