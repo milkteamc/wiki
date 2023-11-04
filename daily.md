@@ -6,4 +6,4 @@
 - `/signin leaderboard` - 簽到排行榜。
 
 
-![image](https://github.com/RyanisyydsTT/wiki/assets/129717677/c040a3cd-e77a-4378-a559-67bd92c99c73)
+![image](./daily.png)
