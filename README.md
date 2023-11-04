@@ -44,6 +44,18 @@
 - `/cheque [金額]` 製作支票
 - `/slime` 史萊姆區塊蒐尋器
 - `/ping` 延遲檢視指令
+- `/dback` 返回死亡點
+- `/back` 返回最後一次傳送點
+- `/pay` 轉帳指令 (/pay [玩家名稱] [金額])   **注意:輸入後須確認(點擊按鈕) 才能順利轉帳**
+- `/baltop` 顯示金錢排行
+## DC連動
+- `/discord` 來獲取DC伺服器加入連結
+- `/discord link` 綁定Discord **(需加入Discord伺服器並傳送驗證碼至指定機器人)**
+- `/discord unlink` 解綁Discord帳號
+## 點券系統
+- `/points` 點券系統
+- `/points pay`將點券轉移至其他玩家 (/points pay [玩家名稱] [點券數量])
+- `/points me` 查看點券數量 
 ***
 ## 拍賣商店
 - `/ah` 開啟拍賣商店購買介面
