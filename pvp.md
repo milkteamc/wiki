@@ -1,5 +1,6 @@
 # PVP保護
 
-**使用**
+**使用方式**
 
-`/pvp on`
+- `/pvp on` 開啟PVP
+- `/pvp off` 關閉PVP
