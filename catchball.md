@@ -11,7 +11,7 @@
 **雞有1%機率下出金雞蛋**
 
 
-![image](./goldegginfo)
+![image](./goldegginfo.png)
 
 **向要捕捉的生物丟捕捉球 即可獲得該生物的生成方塊**
 
