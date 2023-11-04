@@ -15,7 +15,7 @@
 pvp保護  
 連鎖伐木  
 捕捉球  
-背包系統  
+[背包系統](./bag.md)  
 [銀行系統](./bank.md)  
 [鎖箱保護](./chestlock.md)  
 [簽到系統](./daily.md)    
