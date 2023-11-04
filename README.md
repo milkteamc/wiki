@@ -18,7 +18,8 @@
 [背包系統](./bag.md)  
 [銀行系統](./bank.md)  
 [鎖箱保護](./chestlock.md)  
-[簽到系統](./daily.md)    
+[簽到系統](./daily.md)   
+[[ ] 功能](./[].md)   
 ### 特有特性 
 [季節系統](./season.md)
  
