@@ -22,7 +22,8 @@
 [聊天欄[ ] 功能](./[].md)   
 [基岩版專用指令](./bedrock.md)   
 [季節系統](./season.md)  
-[Discord綁定](./dc.md) 
+[Discord綁定](./dc.md)   
+[小金幣](./coin.md)
 ***
 ## 登入/註冊
 - 註冊：  
