@@ -6,4 +6,4 @@
 - `/signin leaderboard` - 簽到排行榜。
 
 
-![image](./daily.png)
+![image](/image/daily.png)
