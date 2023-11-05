@@ -6,7 +6,7 @@
 [實用基礎指令](https://github.com/milkteamc/wiki#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
 ### 全部功能 
 [點券系統](md/point.md)  
-[拍賣商店](md/qs.md)  
+[拍賣商店](md/ah.md)  
 [箱子商店](md/chestshop.md)  
 [寵物系統(僅對贊助者開放)](md/pets.md)   
 [附魔系統](md/enchantlist.md)  
