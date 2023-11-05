@@ -22,7 +22,7 @@
 [聊天欄[ ] 功能](./[].md)   
 [基岩版專用指令](./bedrock.md)   
 [季節系統](./season.md)  
- 
+[Discord綁定](./dc.md) 
 ***
 ## 登入/註冊
 - 註冊：  
@@ -31,7 +31,7 @@
 - 登入：
   - 使用方法 `/login [密碼]`  
 - 更改密碼：  
-  - 使用方法 `/changepassword [舊密碼] [新密碼]`  
+  - 使用方法 `/changepassword [舊密碼] [新密碼]` 
 ## 實用基礎指令
 - `/spawn` 前往重生點
 - `/tpa [玩家]` 向其他玩家發送傳送到該玩家所在位置的請求
@@ -47,10 +47,6 @@
 - `/back` 返回最後一次傳送點
 - `/pay [玩家名稱] [金額]`  **注意**:輸入後須確認(點擊按鈕) 才能順利轉帳
 - `/baltop` 顯示金錢排行
-## Discord連動
-- `/discord` 來獲取DC伺服器加入連結
-- `/discord link` 綁定Discord **(需加入[Discord伺服器](https://discord.gg/22DxRjrXRv)並傳送驗證碼至指定機器人)**
-- `/discord unlink` 解綁Discord帳號
 ## 點券系統
 - `/points` 點券系統
 - `/points pay [玩家名稱] [點券數量]`將點券轉移至其他玩家 
