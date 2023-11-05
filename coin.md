@@ -9,3 +9,7 @@
 - `/coin shop`　小金幣商店
 - `/coin spinner` 小金幣轉盤
 - `/coin withdraw [數量]`　將虛擬小金幣轉換為實體
+
+## 商城畫面
+
+![image](./shop.png)
