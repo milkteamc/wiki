@@ -5,4 +5,4 @@
 ``/bank`` 打開銀行主介面  
 
 
-![image](./bank.png)
+![image](/image/bank.png)
