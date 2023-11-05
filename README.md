@@ -4,7 +4,7 @@
 ### 新手指南
 [註冊/登入](https://github.com/milkteamc/wiki#%E7%99%BB%E5%85%A5%E8%A8%BB%E5%86%8A)  
 [實用基礎指令](https://github.com/milkteamc/wiki#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
-### 實用功能 
+### 全部功能 
 [拍賣商店](https://github.com/milkteamc/wiki#%E6%8B%8D%E8%B3%A3%E5%95%86%E5%BA%97)  
 [箱子商店](./chestshop.md)  
 [寵物系統(僅對贊助者開放)](./pets.md)   
