@@ -6,7 +6,7 @@
 [實用基礎指令](https://github.com/milkteamc/wiki#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
 ### 全部功能 
 [點券系統](./point.md)  
-[拍賣商店](https://github.com/milkteamc/wiki#%E6%8B%8D%E8%B3%A3%E5%95%86%E5%BA%97)  
+[拍賣商店](./qs.md)  
 [箱子商店](./chestshop.md)  
 [寵物系統(僅對贊助者開放)](./pets.md)   
 [附魔系統](./enchantlist.md)  
@@ -50,7 +50,3 @@
 - `/pay [玩家名稱] [金額]`  **注意**:輸入後須確認(點擊按鈕) 才能順利轉帳
 - `/baltop` 顯示金錢排行
 ***
-## 拍賣商店
-- `/ah` 開啟拍賣商店購買介面
-- `/ah sell [價格]` 販賣商品(請先將物品放在主手上)
-- **購買後 點擊拍賣商店主介面(/ah)左下角"收藏箱"領取**
