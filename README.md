@@ -24,7 +24,8 @@
 [基岩版專用指令](md/bedrock.md)   
 [季節系統](md/season.md)  
 [Discord綁定](md/dc.md)   
-[小金幣](md/coin.md)
+[小金幣](md/coin.md)  
+[其他指令](md/others.md)
 ***
 ## 登入/註冊
 - 註冊：  
