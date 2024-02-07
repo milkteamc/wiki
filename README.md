@@ -2,6 +2,7 @@
 這是奶茶伺服器的官方 wiki，目的收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎使用 [PR](https://github.com/milkteamc/wiki/pulls) 對本項目做出貢獻。
 ## 目錄
 ### 新手指南
+[連線資訊](README.md#伺服器連線資訊)
 [註冊/登入](https://github.com/milkteamc/wiki#%E7%99%BB%E5%85%A5%E8%A8%BB%E5%86%8A)  
 [實用基礎指令](https://github.com/milkteamc/wiki#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
 ### 全部功能 
@@ -27,6 +28,37 @@
 [小金幣](md/coin.md)  
 [其他指令](md/others.md)
 ***
+
+## 伺服器連線資訊
+
+### Java 版本
+- **主要連線位址：** `milkteamc.org`
+- **備用連線位址：** `hk.milkteamc.org`
+- **版本支援：** `1.19.4-1.20.4`
+
+### Bedrock 版本
+- **連線位址：** `milkteamc.org`
+- **埠：** `19132`
+- **版本支援：** `1.20.40-1.20.51`
+
+
+
+- **手機方便加入伺服器方法：**
+  1. **加入好友**  
+     步驟一:
+
+
+     ![步驟一](https://cdn.discordapp.com/attachments/924635626303811634/1201131553170923650/image.png?ex=65c8b3ee&is=65b63eee&hm=9315bf697f4404a965be08980650c3c08d070abcd1aebab1d53a773945a7c5aa&)
+     
+  2. **輸入好友名稱**  
+     步驟二: 輸入好友名稱: `milkteamcorg`  
+     ![步驟二](https://cdn.discordapp.com/attachments/924635626303811634/1201131668854014033/image.png?ex=65c8b409&is=65b63f09&hm=5c8cdd92431dc5fd06c674587aaa2b9ec16c8eae1b5931319077b685f0005227&)
+     
+  3. **點擊加入伺服器！**  
+     步驟三: 點擊加入伺服器！  
+     ![步驟三](https://cdn.discordapp.com/attachments/924635626303811634/1201131764756791326/image.png?ex=65c8b420&is=65b63f20&hm=91cf73b1341a0d6032928ad31c9e02a1eb7863d49746f495b1be03205da2893e&)
+
+
 ## 登入/註冊
 - 註冊：  
   - 使用方法 `/register [密碼] [確認密碼]`  
