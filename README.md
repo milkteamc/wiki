@@ -4,7 +4,7 @@
 ### 新手指南
 [連線資訊](README.md#伺服器連線資訊)  
 [註冊/登入](#%E7%99%BB%E5%85%A5%E8%A8%BB%E5%86%8A)  
-[實用基礎指令](https://github.com/milkteamc/wiki#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
+[實用基礎指令](#%E5%AF%A6%E7%94%A8%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4)
 ### 全部功能 
 [點券系統](md/point.md)  
 [拍賣商店](md/ah.md)  
