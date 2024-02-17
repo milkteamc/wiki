@@ -48,15 +48,15 @@
      步驟一:
 
 
-     ![步驟一](https://cdn.discordapp.com/attachments/924635626303811634/1201131553170923650/image.png?ex=65c8b3ee&is=65b63eee&hm=9315bf697f4404a965be08980650c3c08d070abcd1aebab1d53a773945a7c5aa&)
+     ![步驟一](./image/friend.png.jpeg)
      
   2. **輸入好友名稱**  
      步驟二: 輸入好友名稱: `milkteamcorg`  
-     ![步驟二](https://cdn.discordapp.com/attachments/924635626303811634/1201131668854014033/image.png?ex=65c8b409&is=65b63f09&hm=5c8cdd92431dc5fd06c674587aaa2b9ec16c8eae1b5931319077b685f0005227&)
+     ![步驟二](./image/addfriend.png.jpeg)
      
   3. **點擊加入伺服器！**  
      步驟三: 點擊加入伺服器！  
-     ![步驟三](https://cdn.discordapp.com/attachments/924635626303811634/1201131764756791326/image.png?ex=65c8b420&is=65b63f20&hm=91cf73b1341a0d6032928ad31c9e02a1eb7863d49746f495b1be03205da2893e&)
+     ![步驟三](./image/join.png.jpeg)
 
 
 ## 登入/註冊
