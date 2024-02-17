@@ -23,7 +23,7 @@
 - `/land invites` - 查看收到的領地邀請。
 - `/land merge` - 合併領地 (先站在要合併的地方`/land edit`然後 `/land merge [被合併領地名]` 後再打 `/land merge [被合併領地名] confirm`)。
 - `/land help` - 查看教學。
-- `/lands selection` - 類似/lands claim 的選擇工具(似乎可用插件物品(金鋤)代替) 註4 註5 註6
+- `/lands selection` - 類似/lands claim 的選擇工具(可用選取工具(金鋤)代替) 註4 註5 註6
 
 
 註1: 區域像是一種領地裡的小土地，一樣可以管理他人及自己的權限。例如您在家裡放置裡一個附魔台，可以直接把該方塊設為所有人的可使用，就可以讓人使用該方塊無須信任。  
@@ -35,7 +35,7 @@
 - `/lands unclaim`
 - `/lands trust`
 - `/lands untrust`
-註6: 使用方法: 左鍵為第一點 右鍵為第二點(類似WorldEdit)
+註6: 使用方法: 左鍵為第一點 右鍵為第二點
 
 
 領地主介面:
