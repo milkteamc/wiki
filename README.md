@@ -83,4 +83,4 @@
 - `/pay [玩家名稱] [金額]`  **注意**:輸入後須確認(點擊按鈕) 才能順利轉帳
 - `/baltop` 顯示金錢排行
 ***
-© Copyright 2021-2023 milkteamc.org - All Rights Reserved 
+© Copyright 2021-2024 milkteamc.org - All Rights Reserved 
