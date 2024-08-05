@@ -1,0 +1,49 @@
+site_name: 奶茶伺服器 Wiki 頁面
+site_url: https://wiki.milkteamc.org
+site_description: 這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩
+site_author: Maoyue
+
+extra:
+  generator: false
+  homepage: https://wiki.milkteamc.org
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/22DxRjrXRv
+    - icon: fontawesome/brands/github
+      link: https://github.com/milkteamc
+
+plugins:
+  - privacy
+  - social:
+      cards_layout_options:
+        font_family: Noto Sans TC
+  - search:
+      lang: zh
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+      cache_safe: true
+
+theme:
+  name: material
+  favicon: image/logo.png
+  logo: image/logo.png
+  features:
+    - header.autohide
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+  language: zh-TW
+  palette:
+    scheme: slate
+
+copyright: Copyright &copy; 2021 - 2024 milkteamc.org - All Rights Reserved 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
