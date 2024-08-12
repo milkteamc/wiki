@@ -1,6 +1,6 @@
 # 主頁
 !!! note ""
-    這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎加入我們的 [Discord](https://github.com/milkteamc/wiki/pulls) 後透過客服單聯繫我們，對本項目做出貢獻！
+    這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎加入我們的 [Discord](https://discord.gg/22DxRjrXRv) 後透過客服單聯繫我們，對本項目做出貢獻！
 
 ## 伺服器連線資訊
 
