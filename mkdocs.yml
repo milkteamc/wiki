@@ -41,7 +41,7 @@ theme:
   palette:
     scheme: slate
 
-copyright: Copyright &copy; 2021 - 2024 milkteamc.org - All Rights Reserved 
+copyright: Copyright &copy; 2021 - 2025 milkteamc.org - All Rights Reserved 
 
 markdown_extensions:
   - admonition
