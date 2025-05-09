@@ -53,7 +53,7 @@ theme:
     edit: material/pencil 
     repo: fontawesome/brands/github
 
-copyright: Copyright &copy; 2021 - 2025 milkteamc.org - All Rights Reserved 
+copyright: 來自「奶茶伺服器」 —— 程式碼以 GPL-3.0 開源，文字以【姓名標示─非商業性─相同方式分享 4.0 國際】共享
 
 markdown_extensions:
   - admonition
