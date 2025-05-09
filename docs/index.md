@@ -40,7 +40,7 @@ milkteamc.org
 !!! 注意
     本方法只適用於 Bedrock 版本
 
-  1. **加入好友**  
+  1. **新增好友**  
      ![步驟一](./image/friend.png.jpeg)
      
   2. **輸入好友名稱**  
