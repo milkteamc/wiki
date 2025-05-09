@@ -9,6 +9,7 @@ For other OS, go to their [wiki](https://squidfunk.github.io/mkdocs-material/plu
 pip install mkdocs-material
 pip install "mkdocs-material[imaging]"
 pip install mkdocs-minify-plugin
+pip install mkdocs-git-revision-date-localized-plugin
 
 brew install cairo freetype libffi libjpeg libpng zlib
 ```

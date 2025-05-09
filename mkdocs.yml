@@ -29,6 +29,10 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      locale: zh_TW
+  - git-authors
 
 theme:
   name: material
@@ -48,7 +52,7 @@ theme:
     
   icon:
     edit: material/pencil 
-    view: material/eye
+    repo: fontawesome/brands/github
 
 copyright: Copyright &copy; 2021 - 2025 milkteamc.org - All Rights Reserved 
 

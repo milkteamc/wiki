@@ -1,13 +1,15 @@
 # 主頁
-!!! note ""
-    這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎前往我們的 [GitHub](https://github.com/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
-
 > 哈囉！很高興見到你來到奶茶伺服器！這份 Wiki 整理了不少實用攻略與資訊，希望能幫上你的忙。如果看完還有不懂的地方，或者想找人聊聊，隨時歡迎來我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組發問或交流哦！
+>
+> 如果你熟悉本伺服器的功能，歡迎前往我們的 [GitHub](https://github.com/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
 >
 > —— [Maoyue](https://maoyue.tw)
 ## 伺服器連線資訊
 
 ### Java 版本
+!!! note ""
+    一般情況下，請使用主要連線位址，無法連線時再來嘗試使用備用連線位址。
+    如果依然無法連線，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 詢問。
 - **主要連線位址**：
 ``` text
 milkteamc.org
