@@ -40,4 +40,4 @@
 
 領地主介面:
 
-![image](/image/land.png)
+![image](../image/land.png)

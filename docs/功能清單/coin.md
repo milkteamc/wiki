@@ -12,4 +12,4 @@
 
 ## 商城畫面
 
-![image](/image/shop.png)
+![image](../image/shop.png)

@@ -1,18 +1,36 @@
 # 主頁
 !!! note ""
-    這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎加入我們的 [Discord](https://discord.gg/22DxRjrXRv) 後透過客服單聯繫我們，對本項目做出貢獻！
+    這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩，歡迎前往我們的 [GitHub](https://github.com/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
 
+> 哈囉！很高興見到你來到奶茶伺服器！這份 Wiki 整理了不少實用攻略與資訊，希望能幫上你的忙。如果看完還有不懂的地方，或者想找人聊聊，隨時歡迎來我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組發問或交流哦！
+>
+> —— [Maoyue](https://maoyue.tw)
 ## 伺服器連線資訊
 
 ### Java 版本
-- **主要連線位址（臺灣）**：`milkteamc.org`
-- **備用連線位址（日本、新加坡、香港）**：`2.milkteamc.org`
+- **主要連線位址**：
+``` text
+milkteamc.org
+```
+- **備用連線位址**：
+``` text
+2.milkteamc.org
+```
 - **支援版本**：`1.17-1.21.5`
 
 ### Bedrock 版本
-- **主要連線位址（香港）**：`milkteamc.org`
-- **埠**：`19132`
-- **支援版本**：`1.21.50-1.21.72`
+!!! warning "警告"
+    基岩版連線有時不太穩定
+    
+- **連線位址**：
+``` text
+milkteamc.org
+```
+- **埠**：
+``` text
+10070
+```
+- **支援版本**：`1.21.50-1.21.80`
 
 
 
@@ -24,7 +42,10 @@
      ![步驟一](./image/friend.png.jpeg)
      
   2. **輸入好友名稱**  
-     好友名稱為: `milkteamcorg`  
+     好友名稱為： 
+     ``` text
+     milkteamcorg
+     ```  
      ![步驟二](./image/addfriend.png.jpeg)
      
   3. **點擊加入伺服器！**  
@@ -33,7 +54,7 @@
 
 ## 登入/註冊
 !!! 注意
-    請妥善保管您的密碼
+    請妥善保管您的密碼，如果忘記密碼請到我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組中開啟客服單。
 
 !!! warning "警告"
     請使用不容易被猜到的密碼

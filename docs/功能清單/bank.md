@@ -7,13 +7,13 @@
 - ``/bank`` 打開銀行主介面  
 
 
-![image](/image/bank.png)
+![image](../image/bank.png)
 
 # 特殊功能
 
 ## **銀行箱功能**
 
-![image](/image/save.png)    
+![image](../image/save.png)    
 
 !!! 注意
 

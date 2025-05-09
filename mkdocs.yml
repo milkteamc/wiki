@@ -2,6 +2,9 @@ site_name: 奶茶伺服器 Wiki 頁面
 site_url: https://wiki.milkteamc.org
 site_description: 這是奶茶 Minecraft 伺服器的官方 wiki，目的是收錄本伺服器大部分功能的使用方法，方便玩家遊玩
 site_author: Maoyue
+repo_url: https://github.com/milkteamc/wiki
+repo_name: milkteamc/wiki
+edit_uri: edit/main/docs/
 
 extra:
   generator: false
@@ -37,9 +40,15 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
+    - content.action.edit
+    - content.code.copy
   language: zh-TW
   palette:
     scheme: slate
+    
+  icon:
+    edit: material/pencil 
+    view: material/eye
 
 copyright: Copyright &copy; 2021 - 2025 milkteamc.org - All Rights Reserved 
 
