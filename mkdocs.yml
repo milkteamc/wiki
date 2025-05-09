@@ -32,6 +32,35 @@ plugins:
       enable_creation_date: true
       locale: zh_TW
   - git-authors
+  - pub-minifier:
+      jpeg:
+        cache_enabled: true
+        enabled: true
+        enabled_on_serve: false
+        exclude: []
+        extensions: [".[jJ][pP][gG]", ".[jJ][pP][eE][gG]"]
+        djpeg_path: djpeg
+        cjpeg_path: cjpeg
+        jpegtran_path: jpegtran
+        optimise: true
+        progressive: true
+        copy_meta: none
+        smooth: '10'
+        quality: '85'
+      png:
+        cache_enabled: true
+        enabled: true
+        enabled_on_serve: false
+        exclude: []
+        extensions: [".[pP][nN][gG]"]
+        pngquant_enabled: true
+        pngquant_path: ongquant
+        pngquant_speed: '1'
+        pngquant_quality: '95'
+        oxipng_enabled: true
+        oxipng_path: oxipng
+        oxipng_max_compression: true
+        strip: true
 
 theme:
   name: material
@@ -53,7 +82,7 @@ theme:
     edit: material/pencil 
     repo: fontawesome/brands/github
 
-copyright: 來自「奶茶伺服器」 —— 程式碼以 GPL-3.0 開源，文字以【姓名標示─非商業性─相同方式分享 4.0 國際】共享
+copyright: 來自「奶茶伺服器」 —— 程式碼以 GPL-3.0 條款開源，文字以【姓名標示─非商業性─相同方式分享 4.0 國際】條款共享
 
 markdown_extensions:
   - admonition

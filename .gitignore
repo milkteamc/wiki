@@ -4,3 +4,4 @@ __pycache__
 .cache
 .DS_Store
 site
+.pub_min_cache

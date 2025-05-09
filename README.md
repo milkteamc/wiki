@@ -10,8 +10,9 @@ pip install mkdocs-material
 pip install "mkdocs-material[imaging]"
 pip install mkdocs-minify-plugin
 pip install mkdocs-git-revision-date-localized-plugin
+pip install mkdocs-publisher
 
-brew install cairo freetype libffi libjpeg libpng zlib
+brew install cairo freetype libffi libjpeg libpng zlib mozjpeg pngquant oxipng
 ```
 Go to project folder
 ```
