@@ -33,4 +33,5 @@ jobs:
       - run: uv pip install "mkdocs-material[imaging]" --system
       - run: uv pip install mkdocs-git-revision-date-localized-plugin --system
       - run: uv pip install mkdocs-git-authors-plugin --system
+      - run: uv pip install mkdocs-publisher
       - run: mkdocs gh-deploy --force
