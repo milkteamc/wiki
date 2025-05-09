@@ -32,35 +32,6 @@ plugins:
       enable_creation_date: true
       locale: zh_TW
   - git-authors
-  - pub-minifier:
-      jpeg:
-        cache_enabled: true
-        enabled: true
-        enabled_on_serve: false
-        exclude: []
-        extensions: [".[jJ][pP][gG]", ".[jJ][pP][eE][gG]"]
-        djpeg_path: djpeg
-        cjpeg_path: cjpeg
-        jpegtran_path: jpegtran
-        optimise: true
-        progressive: true
-        copy_meta: none
-        smooth: '10'
-        quality: '85'
-      png:
-        cache_enabled: true
-        enabled: true
-        enabled_on_serve: false
-        exclude: []
-        extensions: [".[pP][nN][gG]"]
-        pngquant_enabled: true
-        pngquant_path: ongquant
-        pngquant_speed: '1'
-        pngquant_quality: '95'
-        oxipng_enabled: true
-        oxipng_path: oxipng
-        oxipng_max_compression: true
-        strip: true
 
 theme:
   name: material
