@@ -2,5 +2,5 @@
 *.pyc
 __pycache__
 .cache
-site
 .DS_Store
+site
