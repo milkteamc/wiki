@@ -26,9 +26,9 @@ jobs:
           path: .cache 
           restore-keys: |
             mkdocs-material-
-      - run: uv pip install mkdocs-material 
-      - run: uv pip install mkdocs-minify-plugin
-      - run: uv pip install "mkdocs-material[imaging]"
-      - run: uv pip install mkdocs-git-revision-date-localized-plugin
-      - run: uv pip install mkdocs-git-authors-plugin
+      - run: uv pip install mkdocs-material --system
+      - run: uv pip install mkdocs-minify-plugin --system
+      - run: uv pip install "mkdocs-material[imaging]" --system
+      - run: uv pip install mkdocs-git-revision-date-localized-plugin --system
+      - run: uv pip install mkdocs-git-authors-plugin --system
       - run: mkdocs gh-deploy --force
