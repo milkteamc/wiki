@@ -12,7 +12,7 @@ pip install mkdocs-minify-plugin
 pip install mkdocs-git-revision-date-localized-plugin
 pip install mkdocs-publisher
 
-brew install cairo freetype libffi libjpeg libpng zlib mozjpeg pngquant oxipng
+brew install cairo freetype libffi libjpeg libpng zlib
 ```
 Go to project folder
 ```
