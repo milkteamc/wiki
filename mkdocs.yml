@@ -18,7 +18,7 @@ plugins:
   - privacy
   - social:
       cards_layout_options:
-        font_family: Noto Sans TC
+        font_family: Iansui
   - search:
       lang: zh
   - minify:
@@ -46,6 +46,8 @@ theme:
     - content.action.edit
     - content.code.copy
   language: zh-TW
+  font:
+    text: Iansui
   palette:
     scheme: slate
     
