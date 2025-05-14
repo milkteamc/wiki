@@ -49,6 +49,7 @@ theme:
   font:
     text: Iansui
   palette:
+    primary: black
     scheme: slate
     
   icon:
