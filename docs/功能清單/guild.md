@@ -13,3 +13,5 @@
 - `/guild leave` - 離開公會或刪除自己的公會。使用方法: `/guild leave` 即可。
 
 - `/guild vault` - 公會金庫 (放物品) 頁面指令。使用方法: `/guild vault` 即可。
+
+- `/guild invite`  - 邀請玩家。
