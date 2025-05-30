@@ -1,6 +1,9 @@
+---
+status: deprecated
+---
 # 捕捉球
 !!! failure "注意"
-    此功能已經刪除，詳情請見我們的 Discord。
+    此功能已經修改為新版系統，可以查看我們的「[捕獸夾](./mobcatch.md)」頁面，詳情請見我們的 Discord 公告。
 **獲得方法**
 
 - 購買

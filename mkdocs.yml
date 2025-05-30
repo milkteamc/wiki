@@ -13,6 +13,8 @@ extra:
       link: https://discord.gg/22DxRjrXRv
     - icon: fontawesome/brands/github
       link: https://github.com/milkteamc
+  status: 
+    deprecated: 此功能已經/即將刪除，請使用其他功能替代。
 
 plugins:
   - privacy

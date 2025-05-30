@@ -1,7 +1,10 @@
+---
+status: deprecated
+---
 # 舊公會系統
 
 !!! failure "注意"
-    此功能已經被替換，詳情請見我們的 Discord。
+    此功能已經修改為新版系統，可以查看我們的「[公會系統](./guilds.md)」頁面，詳情請見我們的 Discord 公告。
 
 - `/guild create` - 建立公會指令。使用方法: `/guild create [公會名稱]`。
 
