@@ -47,13 +47,6 @@
 
 接受來自 `<公會名>` 的邀請
 
-- 拒絕
-
-```
-/guilds deny <公會名>
-```
-
-拒絕來自 `<公會名>` 的邀請
 
 - 離開
 
@@ -129,5 +122,107 @@
    `/g info 昏睡紅茶幫`
 
 
-[1]: https://dev.bukkit.org/projects/avo-guilds/pages/commands?utm_source=chatgpt.com "Commands - Pages - GUILDS - Bukkit Plugins - Projects"
-[2]: https://builtbybit.com/resources/a7-guilds-minecraft-guilds-plugin.54007/?utm_source=chatgpt.com "A7 Guilds - Minecraft Guilds Plugin | BuiltByBit"
+## 成就
+
+  ```
+  /guilds achievements
+  ```
+
+  打開公會成就選單，查看所有可完成的公會成就。
+
+## 公會任務
+
+  ```
+  /guilds quest
+  ```
+
+  顯示目前公會任務進度與獎勵。
+
+## 列出公會成員
+
+  ```
+  /guilds members
+  ```
+
+  查看你所在公會的所有成員清單。
+
+## 查看線上成員
+
+  ```
+  /guilds online
+  ```
+
+  列出公會中目前在線與離線的成員。
+
+## 查看過去事件
+
+  ```
+  /guilds history
+  ```
+
+  查看過去 24 小時內的公會事件記錄。
+
+## 搜尋公會
+
+  ```
+  /guilds finder
+  ```
+
+  打開公會搜尋選單，可依名稱、成員數、等級等條件篩選。
+
+## 打開公會選單
+
+  ```
+  /guilds menu
+  ```
+
+  以 GUI 方式快速管理公會設定、公告與升降職位等。
+
+## 查看／設定 Discord 連結
+
+  ```
+  /guilds discord
+  ```
+
+  檢視或設定公會的 Discord 邀請連結。
+
+## 預覽MOTD
+
+  ```
+  /guilds motd preview
+  ```
+
+  預覽目前設定的公會MOTD。
+
+## 幹部頻道聊天
+
+  ```
+  /guilds officerchat <訊息>
+  ```
+
+  向所有公會幹部發送私密頻道訊息。
+
+## 組隊功能
+
+  ```
+  /guilds party
+  ```
+
+  自動將所有在線公會成員拉入隊伍。
+
+## 查看個人權限
+
+  ```
+  /guilds mypermissions
+  ```
+
+  列出你在公會中擁有的所有可用權限。
+
+## 加入／離開通知切換
+
+  ```
+  /guilds notifications
+  ```
+
+  切換是否接收公會成員加入及離開時的系統通知。
+
