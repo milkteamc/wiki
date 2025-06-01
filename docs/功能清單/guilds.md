@@ -186,13 +186,13 @@
 
   檢視或設定公會的 Discord 邀請連結。
 
-## 預覽MOTD（簡介）
+## 預覽MOTD
 
   ```
   /guilds motd preview
   ```
 
-  預覽目前設定的公會MOTD（簡介）。
+  預覽目前設定的公會MOTD。
 
 ## 幹部頻道聊天
 
