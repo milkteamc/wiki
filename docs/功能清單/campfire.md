@@ -2,4 +2,5 @@
 status: new
 ---
 # 治癒營火
-![image](./campfire.png)
+![image](../image/campfire.png)  
+靠近點燃的營火，可以在附近兩格內，每秒恢復1點生命值。使用靈魂營火則為400毫秒恢復1點，且範圍為5格。
