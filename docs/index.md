@@ -1,20 +1,20 @@
 # 主頁
 ???+ tip "提示"
-    哈囉！很高興見到你來到奶茶伺服器！這份 Wiki 整理了不少實用攻略與資訊，希望能幫上你的忙。如果看完還有不懂的地方，或者想找人聊聊，隨時歡迎來我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組發問或交流哦！
+    哈囉！很高興見到你來到奶茶伺服器！這份 Wiki 整理了不少實用攻略與資訊，希望能幫上你的忙。如果看完還有不懂的地方，或者想找人聊聊，隨時歡迎來我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群發問或交流哦！
     
     如果你熟悉本伺服器的功能，歡迎前往我們的 [GitHub](https://github.com/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
     
     —— [Maoyue](https://maoyue.tw)
 
 !!! question "找不到你要的功能嗎？"
-    本 Wiki 尚未收錄完所有伺服器內的功能，對於尚未收錄的功能，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組詢問。
+    本 Wiki 尚未收錄完所有伺服器內的功能，對於尚未收錄的功能，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問。
 
 ## 伺服器連線資訊
 
 ### Java 版本
 !!! info ""
     一般情況下，請使用主要連線位址，無法連線時再來嘗試使用備用連線位址。
-    如果依然無法連線，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 詢問。
+    如果依然無法連線，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問。
 - **主要連線位址**：
 ``` text
 milkteamc.org
