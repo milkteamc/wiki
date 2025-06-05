@@ -91,4 +91,4 @@ milkteamc.org
 - `/baltop` 顯示金錢排行
 - `/ignore [玩家名稱]` 無視玩家
 - `/afk` 開始掛機
-- `/download` 下載本服專用材質包
+- `/download` 下載本伺服器專用材質包
