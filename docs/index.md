@@ -9,7 +9,7 @@
 !!! question "找不到你要的功能嗎？"
     本 Wiki 尚未收錄完所有伺服器內的功能，對於尚未收錄的功能，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問。
 
-## 伺服器連線資訊
+## 伺服器連線資訊 {#connect}
 
 ### Java 版本
 !!! info ""
