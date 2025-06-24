@@ -43,7 +43,7 @@ milkteamc.org
 
 
 
-#### **其他加入伺服器方法：** {#other-connect}
+#### **其他加入伺服器方法** {#other-connect}
 !!! note "注意"
     本方法只適用於 Bedrock 版本
 
