@@ -2,3 +2,4 @@
 - `/vdt status` 查看伺服器目前的視野距離及已讀取的 chunks 等
 - `/whereami` 查看目前所在的生態域
 - `/download` 下載伺服器的材質包
+- `/invshop` - 開啟物品欄保護（防噴）商店購買介面
