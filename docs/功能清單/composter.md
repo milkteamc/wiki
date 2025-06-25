@@ -26,32 +26,32 @@
 生肉類和海洋生物：
 
 - 各種生肉：牛肉、雞肉、鱈魚、羊肉、豬肉、兔肉、魚類、河豚
-- 甜菜湯 (BEETROOT_SOUP)
-- 各種珊瑚塊（死的和活的）
-- 乾海帶塊 (DRIED_KELP_BLOCK)
-- 發酵蜘蛛眼 (FERMENTED_SPIDER_EYE)
-- 閃爍的西瓜片 (GLISTERING_MELON_SLICE)
-- 海龜蛋 (TURTLE_EGG)
+- 甜菜湯
+- 各種珊瑚塊
+- 乾海帶塊
+- 發酵蜘蛛眼
+- 閃爍的西瓜片
+- 海龜蛋
 
 ### 65% 成功率
 熟食和加工食品：
 
 - 各種熟肉：烤牛肉、烤雞肉、烤鱈魚、烤羊肉、烤豬肉、烤兔肉、烤鮭魚
-- 蜂巢 (HONEYCOMB)
-- 幻翼膜 (PHANTOM_MEMBRANE)
-- 毒馬鈴薯 (POISONOUS_POTATO)
-- 兔腳 (RABBIT_FOOT)
-- 兔肉煲 (RABBIT_STEW)
-- 可疑燉菜 (SUSPICIOUS_STEW)
+- 蜂巢
+- 幻翼膜
+- 毒馬鈴薯
+- 兔腳
+- 兔肉煲
+- 可疑燉菜
 
 ### 85% 成功率
 蜂蜜製品：
 
-- 蜂蜜塊 (HONEY_BLOCK)
-- 蜂巢塊 (HONEYCOMB_BLOCK)
+- 蜂蜜塊
+- 蜂巢塊
 
 ### 100% 成功率
 特殊稀有物品：
 
-- 龍頭 (DRAGON_HEAD)
-- 殭屍頭 (ZOMBIE_HEAD)
+- 龍頭
+- 殭屍頭
