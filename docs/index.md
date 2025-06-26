@@ -9,12 +9,14 @@
 !!! question "找不到你要的功能嗎？"
     本 Wiki 尚未收錄完所有伺服器內的功能，對於尚未收錄的功能，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問。
 
-## 伺服器連線資訊
+## 伺服器連線資訊 {#connect}
 
 ### Java 版本
 !!! info ""
     一般情況下，請使用主要連線位址，無法連線時再來嘗試使用備用連線位址。
     如果依然無法連線，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問。
+!!! warning "注意"
+    1.21.4 以上版本目前無法正常使用我們的材質包，所以建議使用 1.21.1  ~ 1.21.3 版本
 - **主要連線位址**：
 ``` text
 milkteamc.org
@@ -23,7 +25,7 @@ milkteamc.org
 ``` text
 2.milkteamc.org
 ```
-- **支援版本**：`1.17-1.21.5`
+- **支援版本**：`1.17-1.21.6`
 
 ### Bedrock 版本
 !!! warning "警告"
@@ -41,7 +43,7 @@ milkteamc.org
 
 
 
-#### **其他加入伺服器方法：** {#other-connect}
+#### **其他加入伺服器方法** {#other-connect}
 !!! note "注意"
     本方法只適用於 Bedrock 版本
 
