@@ -47,6 +47,13 @@ theme:
     - navigation.instant.preview
     - content.action.edit
     - content.code.copy
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+    - content.tooltips
+    - search.suggest
+    - search.highlight
+    - search.share
   language: zh-TW
   font:
     text: Iansui
@@ -58,10 +65,13 @@ theme:
     edit: material/pencil 
     repo: fontawesome/brands/github
 
-copyright: 來自「奶茶伺服器」 —— 程式碼以 GPL-3.0 條款開源，文字以【姓名標示─非商業性─相同方式分享 4.0 國際】條款共享
+copyright: GNU GPL-3.0 License and CC BY-NC-SA 4.0 License &copy; 2021-2025 MilkTeaMC Team and Contributors.
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - toc:
+      permalink: true
+      permalink_title: "連結到此標題"

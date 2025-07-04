@@ -5,21 +5,18 @@
 使用方式請看下方，如果不會使用，直接用 GitHub 的網頁編輯並直接開啟 PR 也可以。
 ## setup (For macOS only)
 For other OS, go to their [wiki](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#cairo-graphics-linux)
-```
-pip install mkdocs-material
-pip install "mkdocs-material[imaging]"
-pip install mkdocs-minify-plugin
-pip install mkdocs-git-revision-date-localized-plugin
-pip install mkdocs-publisher
-
-brew install cairo freetype libffi libjpeg libpng zlib
-```
 Go to project folder
 ```
-python3 -m venv venv
+uv venv
 source venv/bin/activate
 
 export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
+```
+Install deps
+``` 
+uv pip install mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin mkdocs-git-authors-plugin
+
+brew install cairo freetype libffi libjpeg libpng zlib
 ```
 ## some command
 preview
