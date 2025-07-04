@@ -1,0 +1,69 @@
+---
+title: 奶茶 Wiki
+description: 奶茶伺服器官方 Wiki：你的 Minecraft 冒險起點，從這裡開始探索、學習與創造。
+template: splash
+hero:
+  tagline: 奶茶伺服器官方 Wiki：你的 Minecraft 冒險起點，從這裡開始探索、學習與創造。
+  image:
+    file: ../../assets/sakura.webp
+  actions:
+    - text: 開始遊戲
+      link: /guides/connect/
+      icon: right-arrow
+      variant: primary
+    - text: 加入 Discord 社群
+      link: https://discord.gg/22DxRjrXRv
+      icon: external
+      variant: secondary
+---
+
+import { Card, CardGrid, Aside } from '@astrojs/starlight/components';
+
+## 快速開始
+
+<CardGrid stagger>
+  <Card title="連線到伺服器" icon="rocket">
+    立即連線到奶茶伺服器，開始你的 Minecraft 冒險！
+    
+    **Java 版本**：`milkteamc.org`  
+    **Bedrock 版本**：`milkteamc.org:10147`
+    
+    [查看詳細連線說明 →](/guides/connect/)
+  </Card>
+  
+  <Card title="註冊帳號" icon="user">
+    使用強密碼保護你的帳號安全。
+    
+    `/register [密碼] [確認密碼]`
+    
+    [了解更多註冊資訊 →](/guides/auth/)
+  </Card>
+  
+  <Card title="基礎指令" icon="list-format">
+    掌握基本指令讓你的遊戲體驗更順暢。
+    
+    `/menu` - 打開主選單  
+    `/spawn` - 前往重生點  
+    `/rtp` - 隨機傳送
+    
+    [查看完整指令列表 →](/guides/commands/)
+  </Card>
+</CardGrid>
+
+## 閱讀指南
+
+<Aside type="tip" title="歡迎來到奶茶伺服器！">
+很高興見到你來到奶茶伺服器！這份 Wiki 整理了不少實用攻略與資訊，希望能幫上你的忙。如果看完還有不懂的地方，或者想找人聊聊，隨時歡迎來我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群發問或交流哦！
+
+—— [Maoyue](https://maoyue.tw)
+</Aside>
+
+<CardGrid>
+  <Card title="參與貢獻" icon="github">
+    如果你熟悉本伺服器的功能，歡迎前往我們的 [GitHub](https://github.com/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
+  </Card>
+  
+  <Card title="尋求幫助" icon="information">
+    本 Wiki 尚未收錄完所有伺服器內的功能，對於尚未收錄的功能，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問。
+  </Card>
+</CardGrid>

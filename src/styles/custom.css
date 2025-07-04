@@ -1,0 +1,62 @@
+/* 自定義樣式 */
+
+/* 改善卡片樣式 */
+.sl-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sl-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* 改善響應式設計 */
+@media (max-width: 50rem) {
+  .sl-card-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+/* 改善連結樣式 */
+.sl-link-card:hover {
+  border-color: var(--sl-color-accent);
+}
+
+/* 步驟樣式改善 */
+.sl-steps > li {
+  margin-bottom: 1.5rem;
+}
+
+.sl-steps > li:last-child {
+  margin-bottom: 0;
+}
+
+/* 改善圖片顯示 */
+.sl-content img {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 導航樣式改善 */
+.sidebar-content {
+  scrollbar-width: thin;
+  scrollbar-color: var(--sl-color-gray-4) transparent;
+}
+
+.sidebar-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb {
+  background: var(--sl-color-gray-4);
+  border-radius: 3px;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb:hover {
+  background: var(--sl-color-gray-3);
+}

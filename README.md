@@ -1,33 +1,54 @@
-# wiki
-奶茶伺服器官方 wiki 頁面
-## 修改方式
-請先 Fork 本 repo，在 `docs` 資料夾中編輯 markdown 檔案，並提交 PR 貢獻到 <https://github.com/milkteamc/wiki/pulls>。    
-使用方式請看下方，如果不會使用，直接用 GitHub 的網頁編輯並直接開啟 PR 也可以。
-## setup (For macOS only)
-For other OS, go to their [wiki](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#cairo-graphics-linux)
-```
-pip install mkdocs-material
-pip install "mkdocs-material[imaging]"
-pip install mkdocs-minify-plugin
-pip install mkdocs-git-revision-date-localized-plugin
-pip install mkdocs-publisher
+# Starlight Starter Kit: Basics
 
-brew install cairo freetype libffi libjpeg libpng zlib
-```
-Go to project folder
-```
-python3 -m venv venv
-source venv/bin/activate
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
 ```
-## some command
-preview
+pnpm create astro@latest -- --template starlight
 ```
-mkdocs serve
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+
+## 🚀 Project Structure
+
+Inside of your Astro + Starlight project, you'll see the following folders and files:
+
 ```
-build
+.
+├── public/
+├── src/
+│   ├── assets/
+│   ├── content/
+│   │   ├── docs/
+│   └── content.config.ts
+├── astro.config.mjs
+├── package.json
+└── tsconfig.json
 ```
-mkdocs build
-```
-**修改後請使用 PR 貢獻到 https://github.com/milkteamc/wiki**
+
+Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+
+Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+
+Static assets, like favicons, can be placed in the `public/` directory.
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `pnpm install`             | Installs dependencies                            |
+| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
+| `pnpm build`           | Build your production site to `./dist/`          |
+| `pnpm preview`         | Preview your build locally, before deploying     |
+| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more?
+
+Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
