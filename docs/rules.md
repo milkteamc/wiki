@@ -100,6 +100,7 @@
 
 ## 聲明
 
-**免責聲明： 本伺服器不以任何方式隸屬於 Mojang Studios / Microsoft，也不以任何方式得到 Mojang Studios / Microsoft 的認可或支持。**   
+- 本伺服器不以任何方式隸屬於 Mojang Studios / Microsoft，也不以任何方式得到 Mojang Studios / Microsoft 的認可或支持。   
+- 我們反對並且也不支持玩家使用盜版或是其他非法途徑取得的 Minecraft 軟體或其他 Mojang 產品。
 
 **注意：您在此伺服器中意味著接受這些規則，包括所有進一步的更改。這些更改隨時可能進行，並且不會另行通知，您有義務定期自行查看本規則。並且沒有「不知者無罪」。**  
