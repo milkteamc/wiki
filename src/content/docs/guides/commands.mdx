@@ -1,0 +1,141 @@
+---
+title: 實用基礎指令
+---
+
+import { Card, CardGrid, Code } from '@astrojs/starlight/components';
+
+## 一般
+
+<CardGrid>
+  <Card title="奶茶羅盤" icon="open-book">
+    <Code code="/menu" lang="text" />
+    打開奶茶羅盤（伺服器的主選單）
+  </Card>
+  
+  <Card title="前往重生點" icon="heart">
+    <Code code="/spawn" lang="text" />
+    立即回到伺服器的重生點
+  </Card>
+  
+  <Card title="隨機傳送" icon="random">
+    <Code code="/rtp" lang="text" />
+    隨機傳送到世界中的某個位置
+  </Card>
+  
+  <Card title="查看延遲" icon="information">
+    <Code code="/ping" lang="text" />
+    顯示你與伺服器之間的網路延遲
+  </Card>
+</CardGrid>
+
+## 傳送
+
+<CardGrid>
+  <Card title="傳送請求" icon="up-arrow">
+    <Code code="/tpa [玩家名稱]" lang="text" />
+    向其他玩家發送傳送到該玩家所在位置的請求
+  </Card>
+  
+  <Card title="邀請傳送" icon="down-arrow">
+    <Code code="/tpahere [玩家名稱]" lang="text" />
+    向其他玩家發送傳送到自己所在位置的請求
+  </Card>
+  
+  <Card title="返回死亡點" icon="download">
+    <Code code="/dback" lang="text" />
+    返回你最後一次死亡的位置
+  </Card>
+  
+  <Card title="返回傳送點" icon="external">
+    <Code code="/back" lang="text" />
+    返回你最後一次傳送的位置
+  </Card>
+</CardGrid>
+
+## 家點
+
+<CardGrid>
+  <Card title="設定家點" icon="add-document">
+    <Code code="/sethome [名稱]" lang="text" />
+    在當前位置設定一個家點
+  </Card>
+  
+  <Card title="前往家點" icon="right-arrow">
+    <Code code="/home [名稱]" lang="text" />
+    傳送到指定的家點
+  </Card>
+  
+  <Card title="家點列表" icon="list-format">
+    <Code code="/homes" lang="text" />
+    開啟家點列表，查看所有已設定的家點
+  </Card>
+</CardGrid>
+
+## 經濟
+
+<CardGrid>
+  <Card title="製作支票" icon="document">
+    <Code code="/cheque [金額]" lang="text" />
+    製作指定金額的支票，用於安全交易
+  </Card>
+  
+  <Card title="轉帳給玩家" icon="external">
+    <Code code="/pay [玩家名稱] [金額]" lang="text" />
+    轉帳給其他玩家
+    
+    :::note
+    輸入後須確認(點擊按鈕) 才能順利轉帳
+    :::
+  </Card>
+  
+  <Card title="金錢排行榜" icon="star">
+    <Code code="/baltop" lang="text" />
+    顯示伺服器的金錢排行榜
+  </Card>
+</CardGrid>
+
+## 其他實用
+
+<CardGrid>
+  <Card title="連鎖伐木" icon="seti:config">
+    <Code code="/atc" lang="text" />
+    開關連鎖伐木系統
+  </Card>
+  
+  <Card title="史萊姆尋找器" icon="seti:zip">
+    <Code code="/slime" lang="text" />
+    史萊姆區塊搜尋器，幫助找到史萊姆生成區域
+  </Card>
+  
+  <Card title="材質包下載" icon="download">
+    <Code code="/download" lang="text" />
+    下載本伺服器專用材質包
+  </Card>
+</CardGrid>
+
+## 社交功能
+
+<CardGrid>
+  <Card title="無視玩家" icon="error">
+    <Code code="/ignore [玩家名稱]" lang="text" />
+    無視指定玩家的訊息
+  </Card>
+  
+  <Card title="掛機模式" icon="moon">
+    <Code code="/afk" lang="text" />
+    進入掛機狀態，讓其他玩家知道你暫時離開
+  </Card>
+</CardGrid>
+
+## 指令使用提示
+
+:::tip[參數說明]
+- `[玩家名稱]`：輸入其他玩家的遊戲名稱
+- `[金額]`：輸入數字，例如 100、1000
+- `[名稱]`：輸入家點名稱，例如 home1、基地、農場
+- `[密碼]`：輸入你的帳號密碼
+:::
+
+:::note[需要幫助？]
+如果對任何指令有疑問，歡迎加入我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群詢問！
+:::

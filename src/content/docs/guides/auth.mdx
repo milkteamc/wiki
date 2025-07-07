@@ -1,0 +1,68 @@
+---
+title: 註冊與登入
+---
+
+import { Aside, Card, CardGrid, Code } from '@astrojs/starlight/components';
+
+<Aside type="caution" title="重要提醒">
+請妥善保管您的密碼，如果忘記密碼請到我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組中開啟客服單。
+</Aside>
+
+<Aside type="danger" title="安全警告">
+請使用不容易被猜到的[強密碼](https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%BC%BA%E5%BA%A6#%E5%BC%BA%E5%AF%86%E7%A0%81)！
+</Aside>
+
+## 註冊新帳號
+
+當你第一次進入伺服器時，需要註冊一個帳號。
+
+**使用方法**：
+<Code code="/register [密碼] [確認密碼]" lang="text" />
+
+**範例**：
+<Code code="/register MySecurePassword123 MySecurePassword123" lang="text" />
+<Aside type="danger" title="安全警告">
+這組密碼已經不安全，請不要使用！
+</Aside>
+
+## 登入帳號
+
+如果你已經註冊過帳號，每次進入伺服器時需要登入。
+
+**使用方法**：
+<Code code="/login [密碼]" lang="text" />
+
+**範例**：
+<Code code="/login MySecurePassword123" lang="text" />
+
+## 更改密碼
+
+如果你想要更改密碼，可以使用以下指令：
+
+**使用方法**：
+<Code code="/changepassword [舊密碼] [新密碼]" lang="text" />
+
+**範例**：
+<Code code="/changepassword MyOldPassword123 MyNewPassword456" lang="text" />
+
+## 強密碼建議
+
+<CardGrid>
+  <Card title="長度建議" icon="random">
+    使用至少 8 個字元，越長越安全
+  </Card>
+  
+  <Card title="混合字元" icon="seti:lock">
+    包含大小寫字母、數字和特殊符號
+  </Card>
+  
+  <Card title="避免常見" icon="warning">
+    不要使用生日、姓名或常見單字
+  </Card>
+</CardGrid>
+
+## 常見問題
+
+### 忘記密碼怎麼辦？
+
+如果你忘記了密碼，請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群開啟客服單，管理員會協助你重設密碼。

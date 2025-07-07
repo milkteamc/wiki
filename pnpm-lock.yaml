@@ -8,9 +8,15 @@ importers:
 
   .:
     dependencies:
+      '@astrojs/sitemap':
+        specifier: ^3.4.1
+        version: 3.4.1
       '@astrojs/starlight':
         specifier: ^0.34.4
         version: 0.34.4(astro@5.11.0(@types/node@24.0.10)(rollup@4.44.2)(typescript@5.8.3))
+      '@fontsource-variable/noto-sans':
+        specifier: ^5.2.7
+        version: 5.2.7
       astro:
         specifier: ^5.6.1
         version: 5.11.0(@types/node@24.0.10)(rollup@4.44.2)(typescript@5.8.3)
@@ -243,6 +249,9 @@ packages:
 
   '@expressive-code/plugin-text-markers@0.41.2':
     resolution: {integrity: sha512-JFWBz2qYxxJOJkkWf96LpeolbnOqJY95TvwYc0hXIHf9oSWV0h0SY268w/5N3EtQaD9KktzDE+VIVwb9jdb3nw==}
+
+  '@fontsource-variable/noto-sans@5.2.7':
+    resolution: {integrity: sha512-VaA+clV7xTOx+pSOdyjr9nR7khjrJGr7ZHs2KXlx+AqLyG/SUVBadNwauCH0rvF/eZkZr67neNxdKMOLtVxweg==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -2128,6 +2137,8 @@ snapshots:
     dependencies:
       '@expressive-code/core': 0.41.2
 
+  '@fontsource-variable/noto-sans@5.2.7': {}
+
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:
       '@img/sharp-libvips-darwin-arm64': 1.0.4
@@ -2480,7 +2491,7 @@ snapshots:
 
   '@types/sax@1.2.7':
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 24.0.10
 
   '@types/unist@2.0.11': {}
 
