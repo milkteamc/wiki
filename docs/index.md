@@ -2,7 +2,7 @@
 ???+ tip "提示"
     哈囉！很高興見到你來到[奶茶伺服器](https://www.milkteamc.org)！這份 Wiki 整理了不少實用攻略與資訊，希望能幫上你的忙。如果看完還有不懂的地方，或者想找人聊聊，隨時歡迎來我們的 [Discord](https://discord.gg/22DxRjrXRv) 社群發問或交流哦！
     
-    如果你熟悉本伺服器的功能，歡迎前往我們的 [GitHub](https://github.com/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
+    如果你熟悉本伺服器的功能，歡迎前往我們的 [GitHub](https://git.maoyue.tw/milkteamc/wiki) 進行修改並開啟 PR，對本項目做出貢獻！
     
     —— [Maoyue](https://maoyue.tw)
 
