@@ -1,8 +1,14 @@
 # wiki
 奶茶伺服器官方 wiki 頁面
-## 修改方式
-請先 Fork 本 repo，在 `docs` 資料夾中編輯 markdown 檔案，並提交 PR 貢獻到 <https://github.com/milkteamc/wiki/pulls>。    
-使用方式請看下方，如果不會使用，直接用 GitHub 的網頁編輯並直接開啟 PR 也可以。
+## 一般修改方式
+1. 請先分叉本儲存庫
+2. 在 `docs` 資料夾中編輯 markdown 檔案（此時修改內容還不會應用到網站，要完成合併後才會看到你加入的內容）
+3. 到 <https://git.maoyue.tw/milkteamc/wiki/pulls> 點新合併請求
+4. 選擇「拉取」找到你剛才進行修改的分支
+5. 點選新合併請求，並且在標題寫一點相關內容
+6. 等待我們進行審查、合併
+
+以下是對於開發者的內容。  
 ## setup (For macOS only)
 For other OS, go to their [wiki](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#cairo-graphics-linux)
 Go to project folder
