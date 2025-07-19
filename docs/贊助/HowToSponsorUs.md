@@ -3,7 +3,7 @@
     **請先在我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組中開啟客服單索取連結**   
     **購買就代表您同意我們的[買家服務條款](./BuyTOS.md)**
 !!! failure "通知"
-    目前沒有超商贊助方式，更多資訊請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組詢問
+    目前沒有開放贊助，更多資訊請前往我們的 [Discord](https://discord.gg/22DxRjrXRv) 群組詢問
 ## 獲取繳費代碼
 在連結中會有個數量的選項，最低為120台幣，可自行選擇  
 ![圖片](https://github.com/milkteamc/wiki/assets/95519633/8f86340d-6bf7-45ed-9da7-3c46232ae41c)  
