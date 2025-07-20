@@ -33,4 +33,4 @@ build
 ```
 mkdocs build
 ```
-**修改後請使用 PR 貢獻到 https://github.com/milkteamc/wiki**
+**修改後請使用 PR 貢獻到 https://git.maoyue.tw/milkteamc/wiki**
