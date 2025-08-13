@@ -2,9 +2,9 @@ site_name: 奶茶伺服器 Wiki 頁面
 site_url: https://wiki.milkteamc.org
 site_description: 奶茶伺服器官方 Wiki：你的 Minecraft 冒險起點，從這裡開始探索、學習與創造。
 site_author: Maoyue
-repo_url: https://github.com/milkteamc/wiki
+repo_url: https://git.maoyue.tw/milkteamc/wiki
 repo_name: milkteamc/wiki
-edit_uri: edit/main/docs/
+edit_uri: _edit/main/docs/
 
 extra:
   homepage: https://wiki.milkteamc.org
@@ -63,7 +63,7 @@ theme:
     
   icon:
     edit: material/pencil 
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
 
 copyright: GNU GPL-3.0 License and CC BY-NC-SA 4.0 License &copy; 2021-2025 MilkTeaMC Team and Contributors. This website is not an official Minecraft website and is not associated with Mojang Studios or Microsoft.
 
