@@ -65,8 +65,8 @@
 > 為了避免爭議及保護用戶安全，禁止宣傳如法西斯主義、共產主義、自我傷害、跨性別、同性戀、仇恨言論等內容。
 
 15. 請遵循 Discord 社區準則與服務條款
->  請到這裡查看 Discord 社區準則：https://discord.com/guidelines  
->  請到這裡查看 Discord 服務條款：https://discord.com/terms
+>  請到這裡查看 Discord 社區準則：<https://discord.com/guidelines>  
+>  請到這裡查看 Discord 服務條款：<https://discord.com/terms>
 
 16. 其他相關規範
 > 本規則內若有未明確規定者，但管理員認定已經構成違規，即會依照嚴重程度進行違規處理。
