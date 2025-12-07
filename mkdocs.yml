@@ -9,10 +9,12 @@ edit_uri: _edit/main/docs/
 extra:
   homepage: https://wiki.milkteamc.org
   social:
+    - icon: fontawesome/brands/house
+      link: https://www.milkteamc.org/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/22DxRjrXRv
-    - icon: fontawesome/brands/github
-      link: https://github.com/milkteamc
+    - icon: fontawesome/brands/git-alt
+      link: https://git.maoyue.tw/milkteamc/wiki
   status: 
     deprecated: 此功能已經/即將刪除，請使用其他功能替代。
 
@@ -30,10 +32,6 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
-  - git-revision-date-localized:
-      enable_creation_date: true
-      locale: zh_TW
-  - git-authors
 
 theme:
   name: material
