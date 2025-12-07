@@ -9,7 +9,7 @@ edit_uri: _edit/main/docs/
 extra:
   homepage: https://wiki.milkteamc.org
   social:
-    - icon: fontawesome/brands/house
+    - icon: fontawesome/classic/house
       link: https://www.milkteamc.org/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/22DxRjrXRv
